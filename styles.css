@@ -1,0 +1,23 @@
+/* add your CSS here */
+
+.fact{font-style:italic;}
+
+li span{font-weight:bold;}
+
+li{list-style:none;}
+
+.container{border:1px solid gray;
+           width:350px;
+            margin:10px;
+             border-radius:10px;
+              background-color:lightgray}
+
+.information{margin:20px;
+             border:1px solid gray;
+             padding:5px;
+             border-radius:10px;}
+.head{margin:5px;}
+
+.image{width:300px;
+       heigh:200;
+       margin:20px;}
